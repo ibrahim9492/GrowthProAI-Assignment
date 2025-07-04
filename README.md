@@ -45,7 +45,7 @@ A modern, responsive dashboard that simulates how small businesses can view thei
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd growthproai-dashboard
+   cd GrowthProAI-Assignment
    ```
 
 2. **Install dependencies**
@@ -166,7 +166,7 @@ If this were to be developed further, potential additions could include:
 
 ## 📄 License
 
-This project is created for the GrowthProAI internship assignment.
+This project is created for the GrowthProAI-Assignment.
 
 ---
 
